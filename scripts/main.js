@@ -1,4 +1,4 @@
-const ui = require("ui-lib-noBL/library");
+const ui = require("ui-lib-noBL/scripts/library");
 
 const core = require("pictologic/core");
 
